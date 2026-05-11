@@ -18,3 +18,23 @@ A modern, responsive portfolio website built with React and Vite to showcase cre
 - **ESLint** - Code linting and formatting
 
 ## 📁 Project Structure
+
+
+## 🚦 Getting Started
+
+### Prerequisites
+
+- Node.js (version 18 or higher)
+- npm (comes with Node.js)
+
+### Installation
+
+1. **Clone the repository**
+```bash
+git clone <your-repo-url>
+cd the-studio-portfolio
+cd vite-project
+
+npm install
+
+npm run dev
