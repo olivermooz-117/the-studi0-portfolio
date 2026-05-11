@@ -1,8 +1,8 @@
 import { useState } from 'react'
-import Header from './components/Header'
-import SearchBar from './components/SearchBar'
-import projectList from  "./components/ProjectList"
-import ProjectForm from './components/ProjectForm'
+import Header from './assets/components/Header'
+import SearchBar from './assets/components/SearchBar'
+import ProjectList from './assets/components/ProjectList'
+import ProjectForm from './assets/components/ProjectForm'
 
 
 
